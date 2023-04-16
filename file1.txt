@@ -1,0 +1,2 @@
+this is the text inside the file1
+this is add on
